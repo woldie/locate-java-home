@@ -3,3 +3,4 @@ js
 *.d.ts
 node_modules
 .vscode
+.idea
